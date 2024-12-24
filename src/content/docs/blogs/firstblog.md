@@ -1,6 +1,8 @@
 ---
-title: Intro to My Blogs 
-description: this is a damn desc.
+title: "My First Blog"
+description: "A short description of the post"
+date: "2024-12-24"
+tags: ["astro", "blog"]
 ---
 
 # My First Blog Post
