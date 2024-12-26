@@ -13,7 +13,7 @@ export default defineConfig({
             favicon: "./src/assets/pikachu.jpeg",
 
             logo: {
-                src: "https://i.pinimg.com/474x/4e/4f/2e/4e4f2e1ac53cb64139926633054bed48.jpg"
+                src: "./src/assets/pikachu-image.png"
             },
 
             social: {
